@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+=======
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/con4/rest/Responses.java" charset="UTF-8" />
+  </component>
+>>>>>>> 1f5c722... level 2 rest api
+</project>
+

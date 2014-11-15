@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ConnectFour:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnectFour_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="connectFour/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="connectFour" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jersey-1.18" />
+          <element id="library" level="project" name="com.google.guava:guava:18.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
